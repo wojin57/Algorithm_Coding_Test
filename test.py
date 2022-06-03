@@ -1,4 +1,4 @@
-a = 13
-b = [1, 2]
-a = b
-print(a)
+s1 = 'hel'
+s1 += 'l'
+s1 += 'o'
+print(s1)
